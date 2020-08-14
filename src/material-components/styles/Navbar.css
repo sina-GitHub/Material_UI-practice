@@ -1,0 +1,10 @@
+a {
+  text-decoration: none;
+}
+
+.navitem {
+  text-decoration: none;
+  margin-right: "15px";
+  color: #333;
+  border: none;
+}
